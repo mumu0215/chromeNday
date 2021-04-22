@@ -1,5 +1,5 @@
 # chromeNday
-chrome rce的测试脚本
+chrome rce的利用脚本，采用golang编写
 
 使用方式：
 
